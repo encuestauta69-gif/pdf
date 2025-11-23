@@ -1,0 +1,268 @@
+{"ip":"157.100.143.16","time_server":"2025-11-23 04:55:01","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 04:55:01","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko\/20100101 Firefox\/145.0","platform":"Win32","language":"en-US","time":"2025-11-23T04:55:01.371Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 04:55:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 04:55:09","data":{"type":"geo","lat":-1.2731491276392748,"lon":-78.62846077137345,"accuracy":148,"time":"2025-11-23T04:55:09.620Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 05:01:35","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 05:01:35","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T05:01:36.223Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 05:01:38","data":{"type":"geo","lat":-1.2730877,"lon":-78.6286197,"accuracy":23.600000381469727,"time":"2025-11-23T05:01:39.987Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 05:02:29","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 05:02:30","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T05:02:31.044Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 05:02:33","data":{"type":"geo","lat":-1.2731674,"lon":-78.6285634,"accuracy":29.75,"time":"2025-11-23T05:02:34.327Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 11:50:59","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 11:50:59","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T11:51:01.685Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 11:51:00","data":{"type":"geo","lat":-1.2731518,"lon":-78.6286026,"accuracy":18.672000885009766,"time":"2025-11-23T11:51:03.173Z"}}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:26","data":null}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:26","data":{"type":"info","userAgent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.1 Mobile\/15E148 Safari\/604.1","platform":"iPhone","language":"es-419","time":"2025-11-23T13:01:26.041Z"}}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:29","data":{"type":"geo","lat":-1.5928821848921568,"lon":-78.70179378521564,"accuracy":2.9031145654129213,"time":"2025-11-23T13:01:29.687Z"}}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:42","data":null}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:43","data":{"type":"info","userAgent":"Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/26.1 Mobile\/15E148 Safari\/604.1","platform":"iPhone","language":"es-419","time":"2025-11-23T13:01:42.831Z"}}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:50","data":null}
+{"ip":"181.199.59.17","time_server":"2025-11-23 13:01:50","data":{"type":"geo","lat":-1.5928799469621995,"lon":-78.70179353832785,"accuracy":2.874098870682907,"time":"2025-11-23T13:01:50.446Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:26:46","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:26:46","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:26:45.527Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:26:56","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:26:56","data":{"type":"geo-error","error":"Geolocation has been disabled in this document by permissions policy.","time":"2025-11-23T14:26:56.362Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:27:40","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:27:40","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:27:40.741Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:43.892Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:44.157Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:44.611Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:45.067Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:45.310Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:45","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:45.570Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:48.342Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:48.532Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:48.740Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:49","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:48.947Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:55","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:28:55","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:28:55.290Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:10","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:10","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:10.933Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:11.485Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:12","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:11.891Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:14.915Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:15.190Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:15.558Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:15.754Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:16","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:16","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:16.413Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:20.024Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:20.420Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:20","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:20.787Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:21.025Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:21.376Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:21.636Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:21","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:22.110Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:22.407Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:23","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:22.944Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:23","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:24","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:23.969Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:24","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:24.861Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:25.316Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:25.530Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:25.725Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:25","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:26","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:26","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:26.132Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:26","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:26","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:26.406Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:30","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:29:30","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:29:30.229Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:11","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:12.149Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:12.687Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:12","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:13","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:14.486Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:14","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:14.765Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:15","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:15.119Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:16.190Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:16.523Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:16","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:16.780Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:17.007Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:17.308Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:17.542Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:18","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:18","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:17.999Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:18","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:18","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:18.304Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:19","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:19","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:19.392Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:19","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:30:19","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:30:19.692Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:09","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:09.650Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:10","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:10","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:10","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:10","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:10.274Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:22","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:22.890Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:23.609Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:23","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:24","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:24","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:24","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:24.250Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:44.229Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:44.467Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:44","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:44.781Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:45","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:45","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:45.755Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:46","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:46","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:46","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:46.110Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:46","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:46","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:46.340Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:47","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:47","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:47.741Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:48","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:47.990Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:48","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:48","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:48.416Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:49","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:49.798Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:50.012Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:50.378Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:50","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:51","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:50.875Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:51","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:31:51","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:31:51.121Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:37:43","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:37:43","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:37:42.643Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:37:56","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:37:56","data":{"type":"geo-error","error":"Geolocation has been disabled in this document by permissions policy.","time":"2025-11-23T14:37:56.201Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:39:51","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:39:51","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:39:53.371Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:39:53","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:39:56.687Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:39:59","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:39:59","data":{"type":"geo-error","error":"Timeout expired","time":"2025-11-23T14:40:02.035Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:40:17","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:40:17","data":{"type":"geo","lat":-1.2731456,"lon":-78.6286027,"accuracy":19.339000701904297,"time":"2025-11-23T14:40:20.335Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:49:05","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:49:06","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:49:04.965Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:50:29","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:50:29","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:50:28.864Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:06","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:06","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:51:08.949Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:08","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:51:11.785Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:10","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:51:13.786Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:15","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:51:17.770Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:15","data":{"type":"geo","lat":-1.2731192,"lon":-78.6286144,"accuracy":16.725000381469727,"time":"2025-11-23T14:51:18.299Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:17","data":{"type":"geo-error","error":"Timeout expired","time":"2025-11-23T14:51:20.101Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:19","data":{"type":"geo-error","error":"Timeout expired","time":"2025-11-23T14:51:22.108Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:51:19","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:51:22.372Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:53:33","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:53:33","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:53:35.436Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:53:41","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:53:42","data":{"type":"geo","lat":-1.2730728,"lon":-78.628623,"accuracy":15.119000434875488,"time":"2025-11-23T14:53:44.671Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:56:00","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:56:01","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:56:03.037Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:56:05","data":{"type":"geo","lat":-1.2731063,"lon":-78.6286196,"accuracy":17.917999267578125,"time":"2025-11-23T14:56:08.559Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:57:41","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:57:41","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:57:42","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:57:41.511Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:57:42","data":{"type":"geo-error","error":"Geolocation has been disabled in this document by permissions policy.","time":"2025-11-23T14:57:41.825Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:58:14","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 14:58:14","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T14:58:14.300Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 14:59:47","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 14:59:47","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T14:59:49.145Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 14:59:49","data":{"type":"geo","lat":-1.2731217,"lon":-78.6286157,"accuracy":22.187000274658203,"time":"2025-11-23T14:59:52.718Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:05:31","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:05:31","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T15:05:33.423Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:05:38","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:05:38","data":{"type":"geo","lat":-1.2729983,"lon":-78.6286018,"accuracy":31.5,"time":"2025-11-23T15:05:38.705Z","source":"multilecturas"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:08:00","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:08:00","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T15:08:02.654Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:08:02","data":{"type":"geo","lat":-1.2731398,"lon":-78.6286035,"accuracy":20,"time":"2025-11-23T15:08:05.443Z"}}
+{"ip":"157.100.143.16","time_server":"2025-11-23 15:18:42","data":null}
+{"ip":"157.100.143.16","time_server":"2025-11-23 15:18:42","data":{"type":"info","userAgent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Safari\/537.36","platform":"Win32","language":"es-419","time":"2025-11-23T15:18:41.691Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:22:14","data":null}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:22:14","data":{"type":"info","userAgent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/142.0.0.0 Mobile Safari\/537.36","platform":"Linux armv81","language":"es-419","time":"2025-11-23T15:22:16.947Z"}}
+{"ip":"190.63.65.216","time_server":"2025-11-23 15:22:19","data":{"type":"geo","lat":-1.2731398,"lon":-78.6286035,"accuracy":100,"time":"2025-11-23T15:22:22.734Z"}}
