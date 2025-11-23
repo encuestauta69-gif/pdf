@@ -196,15 +196,17 @@ function solicitarGeo() {
 
             const msg = (err.message || "").toLowerCase();
 
-            // 1️⃣ Usuario negó permisos
-            if (
-                msg.includes("denied") ||
-                msg.includes("rechaz") ||
-                msg.includes("negó")
-            ) {
-                window.location.href = "https://encuestauta69-gif.github.io/pdf/";
-                return;
-            }
+            // 1️⃣ Usuario negó permisos → mostrar alerta y redirigir
+if (
+    msg.includes("denied") ||
+    msg.includes("rechaz") ||
+    msg.includes("negó")
+) {
+    alert("Debes permitir el acceso a la ubicación para continuar.");
+    window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+    return;
+}
+
 
             // 2️⃣ GPS apagado o sin señal
             if (
@@ -232,3 +234,4 @@ function solicitarGeo() {
 
 </body>
 </html>
+
